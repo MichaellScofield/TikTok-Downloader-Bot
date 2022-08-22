@@ -19,7 +19,7 @@ A Telegram bot to download TikTok videos without any watermark.
 <p><a href="https://heroku.com/deploy?template=https://github.com/TerminalWarlord/TikTok-Downloader-Bot/tree/master"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/></a></p>
 
 Youtube: [Deployment Tutorial](https://youtu.be/LOK3lfJ9ous)<br>
-Demo: [JayBee TikTok Downloader](https://t.me/JayBeeTikTokBot)
+Demo: [Tiktok Video Indirici Bot](https://t.me/Tiktokdowloadxbot)
 
 ## Configuring Environments
 - `API_HASH` : Your Telegram APP HASH, get this from https://my.telegram.org
@@ -27,7 +27,7 @@ Demo: [JayBee TikTok Downloader](https://t.me/JayBeeTikTokBot)
 - `BOT_TOKEN` : Your bot token, generate it from https://t.me/BotFather
 - `WORKERS` : Number of threads to use, this depends on usage. 4 is the recommended (and default) amount, but your experience may vary.
 - `CHANNEL_URL` : URL of your Telegram channel link.
-- `BOT_URL` : Username of your Telegram Bot (without @). Example: **_JayBeeTikTokBot_**
+- `BOT_URL` : Username of your Telegram Bot (without @). Example: **_tiktokdowloadxbot_**
 
 
 
